@@ -1,6 +1,6 @@
 ## 📚 Simple PDF Merger
 
-Este script Python super simples te ajuda a juntar vários arquivos PDF em um só! Organize seus documentos de forma fácil e rápida. ✨
+Script Python  simples pra te auxiliar a juntar vários arquivos PDF em um só! Organize seus documentos de forma fácil e rápida. ✨
 
 ---
 
